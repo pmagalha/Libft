@@ -16,7 +16,7 @@ In order to use the functions of libft the following steps must be completed:
 
 #### 1st - Clone the repository
 ``` bash
-git clone git@github.com:MartimPinto/libft.git libft
+git clone git@github.com:pmagalha/libft.git libft
 ```
 #### 2nd - Enter the library folder and run Make
 ``` bash
